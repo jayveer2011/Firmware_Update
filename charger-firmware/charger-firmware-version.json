@@ -1,8 +1,8 @@
 {
-      "majorVersionESP": "0",
+      "majorVersionESP": "1",
       "minorVersionESP": "0",
-      "patchVersionESP": "0",
-      "majorVersionKM34": "1",
+      "patchVersionESP": "1",
+      "majorVersionKM34": "0",
       "minorVersionKM34": "0",
-      "patchVersionKM34": "2"
+      "patchVersionKM34": "0"
 }
