@@ -2,10 +2,10 @@
       "majorVersionESP": "0",
       "minorVersionESP": "0",
       "patchVersionESP": "0",
-      "majorVersionKM34": "0",
+      "majorVersionKM34": "1",
       "minorVersionKM34": "0",
-      "patchVersionKM34": "0",
-      "majorVersionBootloader": "1",
+      "patchVersionKM34": "2",
+      "majorVersionBootloader": "0",
       "minorVersionBootloader": "0",
-      "patchVersionBootloader": "2"
+      "patchVersionBootloader": "0"
 }
