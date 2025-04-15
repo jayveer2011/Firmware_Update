@@ -5,7 +5,7 @@
       "majorVersionKM34": "0",
       "minorVersionKM34": "0",
       "patchVersionKM34": "0",
-      "majorVersionBootloader": "66000",
+      "majorVersionBootloader": "1",
       "minorVersionBootloader": "0",
-      "patchVersionBootloader": "0"
+      "patchVersionBootloader": "2"
 }
