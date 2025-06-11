@@ -1,0 +1,16 @@
+{
+"id" : 7,
+"schema" : 1,
+"isForced" : false,
+"noOfPackages" : 1,
+"packages" : [
+   {
+       "coreApp" : "3.3.3",
+       "coreBootloader" : "1.1.1",
+       "companionApp" : "1.1.1",
+        "companionBootloader" : "1.1.1",
+        "filename" : "Tirex.bin" 
+   }]
+}
+
+ 
