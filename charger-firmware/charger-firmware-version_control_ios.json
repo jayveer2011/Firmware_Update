@@ -1,7 +1,7 @@
 {
-"id" : 11,
+"id" : 12,
 "schema" : 1,
-"isForced" : false,
+"isForced" : true,
 "noOfPackages" : 1,
 "packages" : [
    {
@@ -9,7 +9,7 @@
        "coreBootloader" : "1.1.1",
        "companionApp" : "1.1.1",
         "companionBootloader" : "1.1.1",
-        "filename" : "Tirex_MGM_7K4W_WMU_OTA_1_0_2_1_0_2_0_0_0.bin" 
+        "filename" : "Tirex_2.bin" 
    }]
 }
 
