@@ -6,8 +6,8 @@
 "packages" : [
    {
        "coreApp" : "0.0.0",
-       "coreBootloader" : "10.1.0",
-       "companionApp" : "10.1.0",
+       "coreBootloader" : "0.1.0",
+       "companionApp" : "0.1.0",
         "companionBootloader" : "0.0.0",
         "filename" : "Tirex_MGM_7K4W_WMU_OTA_1_0_0_0_0_0.bin" 
    },
