@@ -12,7 +12,7 @@
         "filename" : "Tirex_1.bin" 
    },
 {
-       "coreApp" : "1.1.0",
+       "coreApp" : "2.1.0",
        "coreBootloader" : "0.0.0",
        "companionApp" : "0.0.0",
         "companionBootloader" : "0.0.0",
