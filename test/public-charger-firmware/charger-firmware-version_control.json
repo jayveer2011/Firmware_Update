@@ -1,0 +1,16 @@
+{
+"id" : 1,
+"schema" : 1,
+"isForced" : false,
+"noOfPackages" : 1,
+"packages" : [
+   {
+       "coreApp" : "0.0.0",
+       "coreBootloader" : "1.1.0",
+       "companionApp" : "2.1.0",
+        "companionBootloader" : "0.0.0",
+        "filename" : "Tirex_Esp.bin" 
+   }]
+}
+
+ 
