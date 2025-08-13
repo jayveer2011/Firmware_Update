@@ -9,7 +9,7 @@
        "coreBootloader" : "1.1.0",
        "companionApp" : "2.1.0",
         "companionBootloader" : "0.0.0",
-        "filename" : "Tirex_Esp.bin" 
+        "filename" : "Tirex_Esp_only.bin" 
    }]
 }
 
