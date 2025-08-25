@@ -1,8 +1,8 @@
 {
-"id" : 20,
+"id" : 21,
 "schema" : 1,
-"isForced" : true,
-"noOfPackages" : 2,
+"isForced" : false,
+"noOfPackages" : 1,
 "packages" : [
    {
        "coreApp" : "0.0.0",
