@@ -1,13 +1,13 @@
 {
-"id" : 2,
+"id" : 3,
 "schema" : 1,
 "isForced" : false,
 "noOfPackages" : 1,
 "packages" : [
    {
        "coreApp" : "0.0.0",
-       "coreBootloader" : "1.1.0",
-       "companionApp" : "2.1.0",
+       "coreBootloader" : "2.1.1",
+       "companionApp" : "2.0.0",
         "companionBootloader" : "0.0.0",
         "filename" : "Tirex_GEN1_5_OTA.bin" 
    }]
