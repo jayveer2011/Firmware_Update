@@ -7,7 +7,7 @@
    {
        "coreApp" : "0.0.0",
        "coreBootloader" : "1.1.0",
-       "companionApp" : "1.1.0",
+       "companionApp" : "1.2.0",
         "companionBootloader" : "0.0.0",
         "filename" : "MGM_OTA_TEST_1.bin" 
    },
