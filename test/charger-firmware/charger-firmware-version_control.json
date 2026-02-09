@@ -12,11 +12,11 @@
         "filename" : "MGM_OTA_TEST_1.bin" 
    },
 {
-       "coreApp" : "1.2.1",
+       "coreApp" : "1.3.1",
        "coreBootloader" : "0.0.0",
        "companionApp" : "0.0.0",
         "companionBootloader" : "0.0.0",
-        "filename" :  "Tirex_MGM_NEW_1_2_0.bin" 
+        "filename" :  "Tirex_MGM_NEW_1_3_0.bin" 
    }]
 }
 
