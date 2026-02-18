@@ -1,0 +1,20 @@
+{
+"id" : 10,
+"schema" : 1,
+"isForced" : false,
+"noOfPackages" : 2,
+"packages" : [
+{
+       "coreApp" : "1.4.1",
+       "coreBootloader" : "0.0.0",
+       "companionApp" : "0.0.0",
+        "companionBootloader" : "0.0.0",
+        "filename" :  "OTA_ESP.bin" 
+   }]
+}
+
+ 
+
+
+
+
