@@ -9,7 +9,7 @@
        "coreBootloader" : "2.1.1",
        "companionApp" : "2.0.0",
         "companionBootloader" : "0.0.0",
-        "filename" : "Tirex_GEN1_5_OTA.bin" 
+        "filename" : "Tirex_GEN1_5_OTA_TEST.bin" 
    }]
 }
 
